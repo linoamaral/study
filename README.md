@@ -1,0 +1,2 @@
+# study
+Git para facul
